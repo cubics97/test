@@ -1,0 +1,1 @@
+okestro-openstack_deploy_rhel9.1v.zip filter=lfs diff=lfs merge=lfs -text
